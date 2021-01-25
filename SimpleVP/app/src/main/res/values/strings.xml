@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Simple VP</string>
+    <string-array name="Title">
+        <item>Big Buck Bunny</item>
+        <item>Elephant Dream</item>
+        <item>For Bigger Blazes</item>
+        <item>For Bigger Escape</item>
+        <item>For Bigger Fun</item>
+        <item>For Bigger Joyrides</item>
+        <item>For Bigger For Bigger Meltdowns</item>
+        <item>Subaru Outback On Street and Dirt</item>
+        <item>Tears of Steel</item>
+        <item>Volkswagen GTI Review</item>
+        <item>We Are Going on Bullrun</item>
+        <item>What care can you get from a grand?</item>
+    </string-array>
+
+    <string-array name="url_x">
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4</item>
+    </string-array>
+
+    <string-array name="durations">
+        <item>10:24:02</item>
+        <item>14:03:24</item>
+        <item>05:24:12</item>
+        <item>07:34:10</item>
+        <item>11:00:02</item>
+        <item>04:04:54</item>
+        <item>15:23:04</item>
+        <item>18:22:00</item>
+        <item>10:24:02</item>
+        <item>30:03:24</item>
+        <item>54:24:12</item>
+        <item>27:34:10</item>
+    </string-array>
+</resources>

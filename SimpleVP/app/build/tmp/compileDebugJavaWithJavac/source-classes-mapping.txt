@@ -1,0 +1,13 @@
+com/example/simplevp/FAB.java
+ com.example.simplevp.FAB
+com/example/simplevp/BuildConfig.java
+ com.example.simplevp.BuildConfig
+com/example/simplevp/MainActivity.java
+ com.example.simplevp.MainActivity
+com/example/simplevp/videoact.java
+ com.example.simplevp.videoact
+ com.example.simplevp.videoact$1
+com/example/simplevp/lisit.java
+ com.example.simplevp.lisit
+ com.example.simplevp.lisit$1
+ com.example.simplevp.lisit$CustomAdapter

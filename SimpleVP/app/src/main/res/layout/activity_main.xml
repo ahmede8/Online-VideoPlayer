@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:actionBarNavMode="standard"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Genres"
+        android:textStyle="italic|bold"
+        android:layout_centerHorizontal="true"
+        android:textSize="24dp"
+        android:layout_alignParentTop="true"
+        android:id="@+id/genres"
+
+        />
+
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_below="@+id/genres"
+        android:layout_marginVertical="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_marginRight="140dp"
+        android:layout_marginLeft="20dp"
+        android:text="Adventure"
+        android:textStyle="italic|bold"
+        android:textSize="28dp"
+        android:gravity="center"
+        android:id="@+id/btn1"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/btn1"
+        android:src="@mipmap/money"
+        />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_below="@+id/btn1"
+        android:layout_marginVertical="10dp"
+        android:layout_marginBottom="1dp"
+        android:layout_marginRight="140dp"
+        android:layout_marginLeft="20dp"
+        android:text="SCI FI"
+        android:textStyle="italic|bold"
+        android:textSize="28dp"
+        android:gravity="center"
+        android:id="@+id/btn2"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/btn2"
+        android:src="@mipmap/yoda"
+        />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_below="@+id/btn2"
+        android:layout_marginVertical="10dp"
+        android:layout_marginBottom="1dp"
+        android:layout_marginRight="140dp"
+        android:layout_marginLeft="20dp"
+        android:text="DRAMA"
+        android:textStyle="italic|bold"
+        android:textSize="28dp"
+        android:gravity="center"
+        android:id="@+id/btn3"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/btn3"
+        android:src="@mipmap/walter"
+        />
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_below="@+id/btn3"
+        android:layout_marginVertical="10dp"
+        android:layout_marginBottom="1dp"
+        android:layout_marginRight="140dp"
+        android:layout_marginLeft="20dp"
+        android:text="Comedy"
+        android:textStyle="italic|bold"
+        android:textSize="28dp"
+        android:gravity="center"
+        android:id="@+id/btn4"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/btn4"
+        android:src="@mipmap/deadpool"
+
+        />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentBottom="true"
+           android:layout_alignParentLeft="true"
+           android:layout_marginLeft="20dp"
+           android:layout_marginBottom="20dp"
+           android:src="@drawable/ic_actionbtn"
+            android:id="@+id/fabbutton"
+            />
+
+
+
+
+</RelativeLayout>
